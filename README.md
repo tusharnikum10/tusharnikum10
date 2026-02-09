@@ -1,16 +1,17 @@
 ## Hi there 👋
+# Hi, I'm Tushar 👋
 
-<!--
-**tusharnikum10/tusharnikum10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Software Development & Problem Solving  
+🚀 Love building projects and learning new tech  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Data Structures & Algorithms
+- HTML, CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+I enjoy building practical projects and exploring real-world problem solving.  
+Check out my repositories below 👇
